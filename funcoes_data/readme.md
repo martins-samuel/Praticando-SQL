@@ -1,8 +1,5 @@
-Claro, aqui está uma versão resumida e mais direta para o seu `README.md`, sem os exemplos de código.
 
------
 
-```markdown
 # 📁 Funções de Data (SQL/Python)
 
 Este diretório do meu portfólio é dedicado à demonstração de funções essenciais para a manipulação de datas. O objetivo é resumir comandos comuns usados para consultar, formatar, calcular e transformar valores temporais.
@@ -39,4 +36,3 @@ Para criar o banco de dados e popular os dados corretamente, os scripts **devem*
 2.  `script_preenchimento_db.sql` (Insere os dados nas tabelas)
 
 Após executar esses dois primeiros arquivos, os demais scripts (exercícios 1 a 10) podem ser executados em qualquer ordem para praticar as consultas.
-```
