@@ -16,10 +16,16 @@ O repositório está organizado em módulos. Cada pasta representa um tópico ou
 * **[📁 01 - Praticando SQL: Realizando Consultas](https://github.com/martins-samuel/Praticando-SQL/tree/main/realizando_consultas)**
     * **Descrição:** Scripts fundamentais para a prática de consultas.
     * **Tópicos:** `SELECT`, `FROM`, `WHERE`, `LIMIT` e `ORDER BY`.
-
-* **(📁 02 - [Praticando SQl: Operadores Lógicos](https://github.com/martins-samuel/Praticando-SQL/tree/main/operadores_logicos)**
+* **📁 02 - [Praticando SQl: Operadores Lógicos](https://github.com/martins-samuel/Praticando-SQL/tree/main/operadores_logicos)**
     * **Descrição:** Foco em praticar o uso de operadores lógicos e básicos para criar consultas SQL mais específicas e refinadas.
     * **Tópicos:** AND, OR, NOT, IN, BETWEEN, DISTINCT
+* **📁 03- [Praticando SQL: Entendendo Funções de String](https://github.com/martins-samuel/Praticando-SQL/tree/main/funcoes_string)**
+    * **Desscrição:** Foco em aprender a manipular, formatar e limpar dados de texto (strings) usando as principais funções de string do SQL.
+    * **Tópicos:** CONCAT(), LENGTH(), SUBSTRING(), LOWER(), TRIM(), REPLACE().
+* **📁 04- [Praticando SQL: Entendendo Funções de Data](https://github.com/martins-samuel/Praticando-SQL/tree/main/funcoes_data)**
+    * **Desscrição:** Foco em aprender a manipular, calcular e extrair informações de datas e horas usando as principais funções de data do SQL.
+    * **Tópicos:** DATE(), NOW(), YEAR(), MONTH(), DAY(), DATEDIFF(), DATE_ADD().
+
 ---
 
 ## 💡 Como Usar
