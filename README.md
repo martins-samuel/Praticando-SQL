@@ -13,7 +13,7 @@ O repositório está organizado em módulos. Cada pasta representa um tópico ou
 
 ### Módulos Disponíveis:
 
-* **[📁 01 - Praticando SQL: Realizando Consultas](./01_Praticando_SQL/)**
+* **[📁 01 - Praticando SQL: Realizando Consultas](https://github.com/martins-samuel/Praticando-SQL/tree/main/realizando_consultas)**
     * **Descrição:** Scripts fundamentais para a prática de consultas.
     * **Tópicos:** `SELECT`, `FROM`, `WHERE`, `LIMIT` e `ORDER BY`.
 
