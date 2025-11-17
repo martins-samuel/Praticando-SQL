@@ -28,6 +28,12 @@ O repositório está organizado em módulos. Cada pasta representa um tópico ou
 * **📁 05- [Praticando SQL: Entendendo Funções Numéricas]()**
     * **Descrição: Foco em aprender a realizar cálculos matemáticos, arredondamentos e manipulações de valores numéricos utilizando as principais funções matemáticas do SQL.
     * **Tópicos: ROUND(), CEILING(), FLOOR(), ABS(), POWER(), SQRT(), MOD().
+* **📁 06- [Praticando SQL: Funções de Agregação]()**
+    * **Descrição:** Foco em dominar funções para resumir dados (contagem, soma, média), organizar resultados em categorias e filtrar grupos de dados processados.
+    * **Tópicos:** COUNT(), SUM(), AVG(), MAX(), MIN(), GROUP BY, HAVING.
+* **📁 07- [Praticando SQL: Subconsultas]()**
+    * **Descrição:** Foco em aprender a utilizar consultas aninhadas (subqueries) para filtragens dinâmicas, criação de colunas calculadas e validação de existência de registros.
+    * **Tópicos:** Subconsultas (SELECT, WHERE, FROM), Subconsultas Correlacionadas, EXISTS, NOT EXISTS.
 ---
 
 ## 💡 Como Usar
@@ -36,5 +42,5 @@ O repositório está organizado em módulos. Cada pasta representa um tópico ou
     ```bash
     git clone https://github.com/martins-samuel/Praticando-SQL.git
     ```
-2.  Navegue até a pasta do módulo que deseja consultar (ex: `01_Praticando_SQL`).
+2.  Navegue até a pasta do módulo que deseja consultar (ex: `realizando_consultas\Criando_tabelas.sql`).
 3.  Siga as instruções do `README.md` **dentro daquela pasta** para entender a ordem de execução dos scripts (especialmente os de criação de tabelas e inserção de dados).
