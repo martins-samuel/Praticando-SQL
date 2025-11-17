@@ -25,10 +25,10 @@ O repositório está organizado em módulos. Cada pasta representa um tópico ou
 * **📁 04- [Praticando SQL: Entendendo Funções de Data](https://github.com/martins-samuel/Praticando-SQL/tree/main/funcoes_data)**
     * **Desscrição:** Foco em aprender a manipular, calcular e extrair informações de datas e horas usando as principais funções de data do SQL.
     * **Tópicos:** DATE(), NOW(), YEAR(), MONTH(), DAY(), DATEDIFF(), DATE_ADD().
-* **📁 05- [Praticando SQL: Entendendo Funções Numéricas]()**
+* **📁 05- [Praticando SQL: Entendendo Funções Numéricas](https://github.com/martins-samuel/Praticando-SQL/tree/main/funcoes_numericas)**
     * **Descrição: Foco em aprender a realizar cálculos matemáticos, arredondamentos e manipulações de valores numéricos utilizando as principais funções matemáticas do SQL.
     * **Tópicos: ROUND(), CEILING(), FLOOR(), ABS(), POWER(), SQRT(), MOD().
-* **📁 06- [Praticando SQL: Funções de Agregação]()**
+* **📁 06- [Praticando SQL: Funções de Agregação](https://github.com/martins-samuel/Praticando-SQL/tree/main/funcoes_agregacao)**
     * **Descrição:** Foco em dominar funções para resumir dados (contagem, soma, média), organizar resultados em categorias e filtrar grupos de dados processados.
     * **Tópicos:** COUNT(), SUM(), AVG(), MAX(), MIN(), GROUP BY, HAVING.
 * **📁 07- [Praticando SQL: Subconsultas]()**
