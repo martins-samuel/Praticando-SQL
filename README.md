@@ -34,7 +34,7 @@ O repositório está organizado em módulos. Cada pasta representa um tópico ou
 * **📁 07- [Praticando SQL: Subconsultas](https://github.com/martins-samuel/Praticando-SQL/tree/main/subconsultas)**
     * **Descrição:** Foco em aprender a utilizar consultas aninhadas (subqueries) para filtragens dinâmicas, criação de colunas calculadas e validação de existência de registros.
     * **Tópicos:** Subconsultas (SELECT, WHERE, FROM), Subconsultas Correlacionadas, EXISTS, NOT EXISTS.
-* **📁 08- [Praticando SQL: Combinando Dados com Joins]()**
+* **📁 08- [Praticando SQL: Combinando Dados com Joins](https://github.com/martins-samuel/Praticando-SQL/tree/main/combinando_join)**
     * **Descrição:** Foco em aprender a unificar informações distribuídas em múltiplas tabelas relacionais, permitindo a consolidação de dados e análises integradas através de chaves de ligação.
     * **Tópicos:** INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN.
 ---
